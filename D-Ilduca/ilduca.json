@@ -1,0 +1,10 @@
+{
+  "id": "ilduca_schemebrews",
+  "name": "Ilduca",
+  "team": "demon",
+  "otherNight": 37.2,
+  "otherNightReminder": "The 2 alive good players who were most & least helpful to their team die.",
+  "setup": false,
+  "ability": "Each night*, the 2 alive good players who were most & least helpful to their team die.",
+  "jinxes": []
+}

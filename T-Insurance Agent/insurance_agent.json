@@ -1,0 +1,14 @@
+{
+  "id": "insuranceagent_schemebrews",
+  "name": "Insurance Agent",
+  "team": "townsfolk",
+  "firstNight": 41.1,
+  "firstNightReminder": "Mark a Townsfolk with the Insured reminder. Show the Insurance Agent that Townsfolk and ask them to choose a night. Mark their choice in the Grim",
+  "otherNight": 58.1,
+  "otherNightReminder": "If it is the night chosen by the Insurance Agent, and the Insured player is dead, resurrect them",
+  "reminders": ["Insured", "Night 2", "Night 3", "Night 4", "Night 5", "Night 6"],
+  "remindersGlobal": [],
+  "setup": false,
+  "ability": "You start knowing an in-play Townsfolk and choose a night. On that night, that player resurrects if dead.",
+  "jinxes": []
+}

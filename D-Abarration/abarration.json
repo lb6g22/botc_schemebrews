@@ -1,0 +1,10 @@
+{
+  "id": "abarration_schemebrews",
+  "name": "Abarration",
+  "team": "demon",
+  "otherNight": 47.4,
+  "otherNightReminder": "Wake each minon who was nominated and each demon who wasn't. They each choose 1 player: chosen players die.",
+  "setup": false,
+  "ability": "Each night*, nominated Minions & unnominated Demons each choose 1 player: they die.",
+  "jinxes": []
+}
