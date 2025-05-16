@@ -1,4 +1,4 @@
-[{"id":"_meta","author":"Schemer & Sopher","name":"Touch your hand to the metal plate"},
+[{"id":"_meta","author":"Schemer» & Sopher♡","name":"Touch your hand to the metal plate"},
 "Noble",
 {
 	"id":"P.I._sopherhomebrews",
@@ -8,7 +8,7 @@
         ],
 	"firstNightReminder":"Wake the P.I. and show them any number of players who are linked by a unique connection. This connection must be such that it pertains to all learned players, and no unlearned players",
 	"reminders":["Connected"],
-	"name":"P.I.",
+	"name":"P.I.♡",
 	"team":"townsfolk",
 	"ability":"You start knowing players with a unique connection. each day, privately guess what this connection is and learn how accurate you are"
 },
@@ -16,7 +16,7 @@
 "id":"Raqi_sopherhomebrews",
 "firstNightReminder":"Wake the Raqi and show them demon info; 3 pieces (including what demon they are, the out of play roles, the minions, and any unique info i.e. yagababble phrase) are true",
 "reminders":["True Info"],
-"name":"Raqi",
+"name":"Raqi♡",
 "team":"townsfolk",
 "ability": "You think you are a Demon, but you are not. Exactly 3 pieces of your demon info are true.",
 "firstNight":15
@@ -28,7 +28,7 @@
 "Gossip",
 {
   "id": "lumberjack_schemebrews",
-  "name": "Lumberjack",
+  "name": "Lumberjack»",
   "team": "townsfolk",
   "otherNight": 8.5,
   "otherNightReminder": "If the Axed player is a Minion, they die.",
@@ -51,8 +51,9 @@
 "Goblin",
 {
   "id": "sporehead_schemebrews",
-  "name": "Sporehead",
+  "name": "Sporehead»",
   "team": "minion",
+  "image": ["https://github.com/lb6g22/botc_schemebrews/blob/main/M-Sporehead/EVIL.png?raw=true"],
   "otherNight": 10.5,
   "otherNightReminder": "If nobody died during the day, the Sporehead and all Spored players die. For each evil killed this way, mark 2 or 3 players as Spored",
   "remindersGlobal": ["Spored"],
@@ -61,7 +62,7 @@
 
 {
   "id": "abarration_schemebrews",
-  "name": "Abarration",
+  "name": "Abarration»",
   "team": "demon",
   "otherNight": 47.4,
   "otherNightReminder": "Wake each minon who was nominated and each demon who wasn't. They each choose 1 player: chosen players die.",
@@ -70,8 +71,9 @@
 },
 {
   "id": "ilduca_schemebrews",
-  "name": "Ilduca",
+  "name": "Ilduca»",
   "team": "demon",
+  "image": ["https://github.com/lb6g22/botc_schemebrews/blob/main/D-Ilduca/EVIL.png?raw=true"],
   "otherNight": 37.2,
   "otherNightReminder": "The 2 alive good players who were most & least helpful to their team die.",
   "ability": "Each night*, the 2 alive good players who were most & least helpful to their team die.",
@@ -86,7 +88,7 @@
 "firstNightReminder":"Wake the Imbaru, and have them choose a player; mark that player with the 'Selected for tribute' reminder token. if that player is mad about something incorrect, they might die at any time (before the imbaru chooses again)",
 "otherNightReminder":"Wake the Imbaru, and have them choose 2 players; the first dies, and mark the second player with the 'Selected for tribute' reminder token.  if that player is mad about something incorrect, they might die at any time (before the imbaru chooses again)",
 "reminders":["Selected for tribute"],
-"name":"Imbaru",
+"name":"Imbaru♡",
 "team":"demon",
 "ability": "Each night, choose 2 players: the 1st dies* & the 2nd might if they are mostly incorrect tomorrow",
 "firstNight":23.069,
