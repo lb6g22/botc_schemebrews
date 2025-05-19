@@ -8,5 +8,6 @@
   "remindersGlobal": ["Spored"],
   "setup": false,
   "ability": "Each night*, if no-one died today, you die. If you were evil, 2 or 3 players gain this ability.",
-  "jinxes": []
+  "jinxes": [],
+  "flavor": "They say all that black mould isn't good for me. The mould, respectfully, disagrees."
 }

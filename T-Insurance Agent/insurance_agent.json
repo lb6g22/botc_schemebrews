@@ -10,5 +10,6 @@
   "remindersGlobal": [],
   "setup": false,
   "ability": "You start knowing an in-play Townsfolk and choose a night. On that night, that player resurrects if dead.",
-  "jinxes": []
+  "jinxes": [],
+  "flavor": "Perfect! Thank you ma'am. Payments due on the 1st, 2nd and 3rd of every month."
 }

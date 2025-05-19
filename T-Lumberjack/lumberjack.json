@@ -1,0 +1,10 @@
+{
+  "id": "lumberjack_schemebrews",
+  "name": "Lumberjack»",
+  "team": "townsfolk",
+  "otherNight": 52.5,
+  "otherNightReminder": "If the Axed player is a Minion, they die.",
+  "reminders": ["Axed"],
+  "ability": "If you publicly claim to be the Lumberjack when nominated and choose a minion, they die at night."
+  "flavor": "Chop! Chop! Chop!"
+}

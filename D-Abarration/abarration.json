@@ -6,5 +6,6 @@
   "otherNightReminder": "Wake each minon who was nominated and each demon who wasn't. They each choose 1 player: chosen players die.",
   "setup": false,
   "ability": "Each night*, nominated Minions & unnominated Demons each choose 1 player: they die.",
-  "jinxes": []
+  "jinxes" : [{"id": "exorcist", "reason": "If the Exorcist chooses the Abarration & they were not nominated, the Abarration does not act tonight."}],
+  "flavor" : "What does it look like? The shape in the glass? [...] Does it look... like this?"
 }

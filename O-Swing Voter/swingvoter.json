@@ -9,4 +9,5 @@
 	"team": "outsider",
 	"ability": "You must vote the opposite of how you voted last nomination.",
 	"flavor": "Who did I vote for? Well it wasn't the Royalists that's for sure!",
+	"jinxes" : [{"id": "cannibal", "reason": "If the Cannibal gains the Swing Voter ability, the Cannibal learns this."}]
 }
