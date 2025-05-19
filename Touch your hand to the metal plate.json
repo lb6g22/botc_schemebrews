@@ -53,8 +53,8 @@
 	"id": "swingvoter_schemebrews",
 	"name": "Swing Voter»",
 	"image": [
-		"https://github.com/lb6g22/botc_schemebrews/blob/main/O-Swing%20Voter/GOOD.png?raw=true",
-		"https://github.com/lb6g22/botc_schemebrews/blob/main/O-Swing%20Voter/EVIL.png?raw=true"
+		"https://github.com/lb6g22/botc_schemebrews/blob/main/O-Swing_Voter/GOOD.png?raw=true",
+		"https://github.com/lb6g22/botc_schemebrews/blob/main/O-Swing_Voter/EVIL.png?raw=true"
 	],
 	"team": "outsider",
 	"ability": "You must vote the opposite of how you voted last nomination.",
