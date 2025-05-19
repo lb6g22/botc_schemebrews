@@ -52,8 +52,8 @@
 {
   "id": "sporehead_schemebrews",
   "name": "Sporehead»",
-  "team": "minion",
   "image": ["https://github.com/lb6g22/botc_schemebrews/blob/main/M-Sporehead/EVIL.png?raw=true"],
+  "team": "minion",
   "otherNight": 10.5,
   "otherNightReminder": "If nobody died during the day, the Sporehead and all Spored players die. For each evil killed this way, mark 2 or 3 players as Spored",
   "remindersGlobal": ["Spored"],
