@@ -1,0 +1,47 @@
+[{"id":"_meta","author":"Schemer»","name":"Doubtsiders"},
+"librarian",
+"pixie",
+"clockmaker",
+"dreamer",
+"empath",
+"mathematician",
+"flowergirl",
+"oracle",
+"nightwatchman",
+"slayer",
+"fisherman",
+"banshee",
+"farmer",
+
+"ogre",
+"puzzlemaster",
+"recluse",
+"golem",
+{
+  "id": "masochist_schemebrews",
+  "name": "Masochist»",
+  "team": "outsider",
+  "ability": "Nominations on you only succeed if all living evil players vote. Good can't win.",
+  "jinxes": [
+	{"id": "pithag", "reason": "If a Pit-Hag creates a Masochist, the Storyteller chooses which player it is."},
+	{"id": "legion", "reason": "Only 1 jinxed character can be in play."},
+	{"id": "spy", "reason": "If the Spy is or has been in play, the Masochist is poisoned"},
+	{"id": "widow", "reason": "If the Widow is or has been in play, the Masochist is poisoned"}
+  ]
+},
+
+"godfather",
+"cerenovus",
+"poisoner",
+{
+	"id": "ostra_schemebrews",
+	"name": "Ostra»",
+	"team": "minion",
+	"ability": "Townsfolk and Minions might register as Outsiders. You must to good abilities. [-1 Outsider]",
+	"flavor": "Hey bestie, just wanted you to know they're all talking about you behind your back. Not me though, I'm always here for you.",
+	"setup": true
+},
+
+"fanggu",
+"lilmonsta"
+]

@@ -1,0 +1,37 @@
+[{"id":"_meta","author":"Schemer»","name":"Legion-dary"},
+"investigator",
+"librarian",
+"chef",
+"empath",
+"gambler",
+"oracle",
+"undertaker",
+"nightwatchman",
+"philosopher",
+"alsaahir",
+"savant",
+{
+  "id": "lumberjack_schemebrews",
+  "name": "Lumberjack»",
+  "team": "townsfolk",
+  "otherNight": 52.5,
+  "otherNightReminder": "If the Axed player is a Minion, they die.",
+  "reminders": ["Axed"],
+  "ability": "If you publicly claim to be the Lumberjack when nominated and choose a Minion, they die at night.",
+  "flavor": "Chop! Chop! Chop!"
+},
+"fool",
+"amnesiac",
+
+"tinker",
+"mutant",
+"drunk",
+"saint",
+
+"summoner",
+"spy",
+"eviltwin",
+"assassin",
+
+"legion"
+]
