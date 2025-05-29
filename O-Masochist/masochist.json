@@ -1,0 +1,12 @@
+{
+  "id": "masochist_schemebrews",
+  "name": "Masochist",
+  "team": "outsider",
+  "ability": "Nominations on you only succeed if all living evil players vote. Good can't win.",
+  "jinxes": [
+	{"id": "pithag", "reason": "If a Pit-Hag creates a Masochist, the Storyteller chooses which player it is."},
+	{"id": "legion", "reason": "Only 1 jinxed character can be in play."},
+	{"id": "spy", "reason": "If the Spy is or has been in play, the Masochist is poisoned"},
+	{"id": "widow", "reason": "If the Widow is or has been in play, the Masochist is poisoned"}
+  ]
+}
