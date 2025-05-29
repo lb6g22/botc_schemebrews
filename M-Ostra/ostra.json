@@ -2,7 +2,7 @@
 	"id": "ostra_schemebrews",
 	"name": "Ostra",
 	"team": "minion",
-	"ability": "Townsfolk and Minions might register as Outsiders. You must to good abilities. [-1 Outsider]",
+	"ability": "Townsfolk and Minions might register as Outsiders to good abilities. You must. [-1 Outsider]",
 	"flavor": "Hey bestie, just wanted you to know they're all talking about you behind your back. Not me though, I'm always here for you.",
 	"setup" : true
 }
