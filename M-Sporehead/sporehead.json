@@ -4,10 +4,10 @@
   "team": "minion",
   "image": ["https://github.com/lb6g22/botc_schemebrews/blob/main/M-Sporehead/EVIL.png?raw=true"],
   "otherNight": 10.5,
-  "otherNightReminder": "If nobody died during the day, the Sporehead and all Spored players die. For each evil killed this way, mark 2 or 3 players as Spored",
-  "remindersGlobal": ["Spored"],
+  "otherNightReminder": "If nobody died during the day, the Sporehead and all Spored players die. For each player killed this way, mark 2 alive players as Spored"
+  "remindersGlobal": ["Spored","Spored","Spored","Spored"],
   "setup": false,
-  "ability": "Each night*, if no-one died today, you die. If you were evil, 2 or 3 players gain this ability.",
+  "ability": "Each night*, if no-one died today, you do & 2 alive players gain this ability. If 5 or more live, players you nominate & execute live.",
   "jinxes": [],
-  "flavor": "They say all that black mould isn't good for me. The mould, respectfully, disagrees."
+  "flavor": "I'm a fun guy to be around"
 }
