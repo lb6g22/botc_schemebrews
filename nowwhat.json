@@ -1,0 +1,52 @@
+[{"id":"_meta","author":"Schemer»","name":"Now What?"},
+"noble",
+"chef",
+"knight",
+"investigator",
+"librarian",
+"shugenja",
+"pixie",
+"clockmaker",
+"steward",
+"washerwoman",
+{
+	"id":"P.I._sopherhomebrews",
+        "image": [
+            "https://github.com/v4rii/SopherHomebrews/blob/main/T-P.I/GOOD.png?raw=true",
+            "https://github.com/v4rii/SopherHomebrews/blob/main/T-P.I/EVIL.png?raw=true"
+        ],
+	"firstNightReminder": "Point to all players marked as *CONNECTED*",
+	"reminders": ["Connected", "Connected", "Connected", "Connected", "Connected"],
+	"name":"P.I.♡",
+	"team": "townsfolk",
+	"firstNight": 45.2,
+	"ability":"You start knowing players with a unique connection. each day, privately guess what this connection is and learn how accurate you are"
+},
+{
+"id":"Raqi_sopherhomebrews",
+"firstNightReminder":"Wake the Raqi and show them demon info; 3 pieces (including what demon they are, the out of play roles, the minions, and any unique info i.e. yagababble phrase) are true",
+"reminders":["True Info", "True Info", "True Info"],
+"name":"Raqi♡",
+"team":"townsfolk",
+"ability": "You think you are a Demon, but you are not. Exactly 3 pieces of your demon info are true.",
+"firstNight":15,
+"firstNightReminder" : "Wake the Raqi to provide their Demon info.",
+"otherNight":30.1,
+"otherNightReminder": "Wake the Raqi and have them choose as if they were the Demon."
+},
+"amnesiac",
+
+"politician",
+"recluse",
+"hatter",
+"mutant",
+
+"cerenovus",
+"spy",
+"baron",
+"harpy",
+
+"riot",
+"leviathan",
+"alhadikhia"
+]

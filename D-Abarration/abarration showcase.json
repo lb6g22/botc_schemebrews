@@ -1,6 +1,32 @@
+[{"id":"_meta","author":"Schemer»","name":"The Nominated and the Dead"},
+"chef",
+"librarian",
+"pixie",
+"chambermaid",
+"towncrier",
+"undertaker",
+"innkeeper",
+"lycanthrope",
+"philosopher",
+"juggler",
+"minstrel",
+"banshee",
+"virgin",
+
+"drunk",
+"hermit",
+"recluse",
+"tinker",
+
+"witch",
+"fearmonger",
+"pithag",
+"summoner",
+
+"yaggababble",
 {
   "id": "abarration_schemebrews",
-  "name": "Abarration",
+  "name": "Abarration»",
   "team": "demon",
   "otherNight": 47.4,
   "otherNightReminder": "Wake each minon who was nominated and each demon who wasn't. They each choose 1 player: chosen players die.",
@@ -10,3 +36,4 @@
   "jinxes" : [{"id": "exorcist", "reason": "If the Exorcist chooses the Abarration & they were not nominated, the Abarration does not act tonight."}],
   "flavor" : "What does it look like? The shape in the glass? [...] Does it look... like this?"
 }
+]
