@@ -1,0 +1,8 @@
+{
+  "id": "bouncer_schemebrews",
+  "name": "Bouncer",
+  "team": "fabled",
+  "reminders": ["Something Bad"],
+  "ability": "Something Bad might happen to players who mention characters that are not on script.",
+  "flavor": "You're not on the list."
+}
