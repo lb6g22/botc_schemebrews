@@ -4,5 +4,6 @@
 	"team": "minion",
 	"ability": "Townsfolk and Minions might register as Outsiders to good abilities. You must. [-1 Outsider]",
 	"flavor": "Hey bestie, just wanted you to know they're all talking about you behind your back. Not me though, I'm always here for you.",
-	"setup" : true
+	"setup" : true,
+	"jinxes": [{"id": "damsel", "reason": "Ostra counts as a Minion for the Damsel's ability."}]
 }
