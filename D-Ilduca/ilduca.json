@@ -5,6 +5,7 @@
   "image": ["https://github.com/lb6g22/botc_schemebrews/blob/main/D-Ilduca/EVIL.png?raw=true"],
   "otherNight": 37.2,
   "otherNightReminder": "The 2 alive good players who were most & least helpful to their team die.",
+  "reminders": ["Helpful", "Unhelpful", "Dead", "Dead"],
   "setup": false,
   "ability": "Each night*, the 2 alive good players who were most & least helpful to their team die.",
   "flavor": "Beatings will continue until morale improves.",

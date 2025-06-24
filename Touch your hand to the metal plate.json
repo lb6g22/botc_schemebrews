@@ -116,6 +116,7 @@
     "otherNight": 47.4,
     "otherNightReminder": "Wake each minon who was nominated and each demon who wasn't. They each choose 1 player: chosen players die.",
     "ability": "Each night*, nominated Minions & unnominated Demons each choose 1 player: they die.",
+    "reminders": ["Unnominated", "Unnominated", "Unnominated", "Unnominated", "Nominated", "Nominated", "Nominated", "Nominated", "Dead", "Dead", "Dead", "Dead"],
     "jinxes": [
       {
         "id": "Exorcist",
@@ -134,6 +135,7 @@
     "otherNight": 37.2,
     "otherNightReminder": "The 2 alive good players who were most & least helpful to their team die.",
     "setup": false,
+    "reminders": ["Helpful", "Unhelpful", "Dead", "Dead"],
     "ability": "Each night*, the 2 alive good players who were most & least helpful to their team die.",
     "jinxes": [
       {
