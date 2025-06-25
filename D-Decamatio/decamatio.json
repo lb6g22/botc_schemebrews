@@ -2,10 +2,19 @@
   "id": "decamatio_schemebrews",
   "name": "Decamatio",
   "team": "demon",
+  "firstNight": 40.1,
+  "firstNightReminder": "If there are no Outsiders, wake the Decamatio and show them the grimoire. Show fingers equalling half of all living players (rounded up). They choose that many players to be killed.",
   "otherNight": 38.1,
   "otherNightReminder": "If it is night X+1, wake the Decamatio and show them the grimoire. Show fingers equalling half of all living players (rounded up or down to get closest to final 3). They choose that many players to be killed.",
   "reminders": ["Decimation", "Night 1", "Night 2", "Night 3", "Night 4", "Night 5", "Dead", "Dead", "Dead", "Dead", "Dead", "Dead", "Dead", "Dead"],
   "setup": true,
+  "special": [
+    {
+      "name": "grimoire",
+      "type": "signal",
+      "time": "night"
+    }
+  ],
   "ability": "On Night X+1, see the grimoire & choose half of all living players: they die. Each day, if no alive player was executed, evil wins. [X Outsiders]",
-  "flavor": "Ludus finitus est, turma mala vicit.",
+  "flavor": "Ludus finitus est, turma mala vicit."
 }
