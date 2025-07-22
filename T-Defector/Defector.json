@@ -1,0 +1,22 @@
+{
+"id": "Defector_schemebrews",
+"name": "Defector",
+"team": "townsfolk",
+"image": [],
+"firstNight": 48.1,
+"firstNightReminder": "Wake the Defector and show them a Minion's token.",
+"reminders": ["Seen"],
+"remindersGlobal": [],
+"ability": "You start knowing an in-play Minion. You are safe from Minions.",
+"flavor": "I know you. There was blood, and masks, and blades raised. And now you've followed me into the void.",
+"jinxes": [
+{"id": "boffin", "reason": "If the Demon uses their Boffin ability on you, it malfunctions."},
+{"id": "devilsadvocate", "reason": "If the Defector nominates the protected player, the Devil's Advocate is poisoned until dusk."},
+{"id": "eviltwin", "reason": "If the Defector nominates & executes the good twin, nothing happens."},
+{"id": "goblin", "reason": "If the Defector nominates the Goblin the Goblin is poisoned until dusk."},
+{"id": "scarletwoman", "reason": "If the Scarlet Woman has become the Demon, you are safe from them."},
+{"id": "spy", "reason": "You register as a not-in-play good character to the Spy."},
+{"id": "summoner", "reason": "The Summoner can choose that the Defector player is the new Demon."},
+{"id": "widow", "reason": "You register as a not-in-play good character to the Widow."}
+]
+}
