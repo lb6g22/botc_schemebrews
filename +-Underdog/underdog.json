@@ -1,0 +1,8 @@
+{
+  "id": "underdog_schemebrews",
+  "name": "Underdog",
+  "team": "traveller",
+  "reminders": ["No Ability"],
+  "ability": "You start as the losing alignment. Once per game, at night, choose two players: if they are the same alignment, they swap characters.",
+  "flavor": "Believe in a me that believes in you!"
+}
