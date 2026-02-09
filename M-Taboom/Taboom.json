@@ -1,0 +1,13 @@
+{
+	"id": "tabbom_schemebrews",
+	"name": "Taboom",
+	"team": "minion",
+	"reminders": "Spoke Out",
+	"ability": "Each night, choose a character. The first player to name it publicly tomorrow might die at any time until dusk.",
+	"flavor": "Speak of the Devil, and he shall appear.",
+	"firstNight": 39.1,
+	"firstNightReminder": "Wake the Taboom, they choose a character. Put the Taboom to sleep. Mark the first player to mention that character with the Spoke Out reminder.",
+	"otherNight": 24.1,
+	"otherNightReminder": "Remove the Spoke Out reminder token. Wake the Taboom, they choose a character. Put the Taboom to sleep. Mark the first player to mention that character with the Spoke Out reminder."
+
+}
