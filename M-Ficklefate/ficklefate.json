@@ -1,0 +1,53 @@
+{
+  "id": "ficklefate_schemebrews",
+  "name": "Ficklefate»",
+  "team": "minion",
+  "otherNight": 20.1,
+  "otherNightReminder": "Wake the Ficklefate. If they agree, show them the Grimoire for as long as they need. Allow the Ficklefate to make a change to the Grimoire. Put the Ficklefate to sleep. Inform players if their character or alignment changes. The Ficklefate loses their ability – mark them with a NO ABILITY reminder :reminder:",
+  "setup": false,
+  "reminders": ["NO ABILITY"],
+  "ability": "Once per game, at night*, look at the Grimoire & make 1 change. If a Demon is made, deaths tonight are arbitrary. Evil players cannot become good, even if you lose this ability.",
+  "jinxes" : [
+    {
+      "id": "alchemist",
+      "reason": "An Alchemist-Ficklefate has no Ficklefate ability & a Ficklefate is in play. After each execution, a living Alchemist-Ficklefate may publicly guess a living player as the Ficklefate. If correct, the Demon must pick the Ficklefate tonight & the Ficklefate does not wake."
+    },
+    {
+      "id": "cultleader",
+      "reason": "The Cult Leader might turn good due to their ability."
+    },
+    {
+      "id": "damsel",
+      "reason": "After the Ficklefate uses their ability, the Damsel is poisoned, even if the Ficklefate exits play."
+    },
+    {
+      "id": "heretic",
+      "reason": "Only 1 jinxed character can be in play."
+    },
+    {
+      "id": "leviathan",
+      "reason": "The Leviathan cannot enter play after day 5."
+    },
+    {
+      "id": "magician",
+      "reason": "When the Ficklefate sees the Grimoire, the Demon and Magician's character tokens are removed and cannot be altered."
+    },
+    {
+      "id": "poppygrower",
+      "reason": "If the Poppy Grower has their ability, the Ficklefate does not."
+    },
+    {
+      "id": "summoner",
+      "reason": "If the Summoner creates a second living Demon, deaths tonight are arbitrary."
+    }
+  ],
+  "flavor" : "Fingers stained blue and blush, conjure rainbows for her brush",
+  "special": [
+    {
+      "name": "grimoire",
+      "type": "signal",
+      "time": "night"
+    }
+  ]
+}
+
